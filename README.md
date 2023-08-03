@@ -1,6 +1,10 @@
-<h1 align="center">
+<h1 >
   Hey, I'm lxhyz!
 </h1>
+<br/>
+- 📍  BEIJING.
+- 📧  [zt2L999@163.com](zt2999@163.com)
+<br/>
 
 <p align="center">
     <a href="https://flutter.cn/"> <img src="https://img.shields.io/badge/Flutter-blue"/> </a>
@@ -11,7 +15,7 @@
     <a href="http://www.w3.org/"> <img src="https://img.shields.io/badge/Css-purple"/></a>
 </p>
 
-## 🌠[Coding Time](https://wakatime.com/@Younger)
+## [Coding Time](https://wakatime.com/@Younger)
 > the projects I'm working on
 
 <div>
