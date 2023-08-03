@@ -12,7 +12,7 @@
 <br/>
 <!-- <img align="right" top='30' alt="GIF" src="https://zimg.qdocti.com/7f9d45e081a463e0d636963ae0ccc7ac" width="480"/> -->
 - 📍  BEIJING.  <br/>
-- 📧  [zt2L999@163.com](zt2999@163.com) <br/>
+<!-- - 📧  [zt2L999@163.com](zt2999@163.com) <br/> -->
 - 👩‍💻  4 years of work. <br/>
 <br/>
 
