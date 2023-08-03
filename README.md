@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=lxhyz&show_icons=true&theme=radical"/>
+<div style="width:100vw">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=lxhyz&show_icons=true&theme=radical"/>
+</div
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxhyz&theme=radical&layout=compact"  />
+<div style="width:100vw">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxhyz&theme=radical&layout=compact"  />
+</div
+
