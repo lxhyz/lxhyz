@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<div style="width:100vw">
+<p>
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=lxhyz&show_icons=true&theme=radical"/>
-</div
+</p>
 
-<div style="width:100vw">
+<p>
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxhyz&theme=radical&layout=compact"  />
-</div
+</p>
 
