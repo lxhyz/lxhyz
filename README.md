@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=lxhyz&show_icons=true&theme=radical"/>
+
