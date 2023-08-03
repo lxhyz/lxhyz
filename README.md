@@ -2,7 +2,7 @@
   Hey, I'm lxhyz!
 </h1>
 <br/>
-- 📍  BEIJING.
+- 📍  BEIJING.  <br/>
 - 📧  [zt2L999@163.com](zt2999@163.com)
 <br/>
 
