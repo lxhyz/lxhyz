@@ -13,12 +13,7 @@
 <img align="right" top='30' alt="GIF" src="https://zimg.qdocti.com/7f9d45e081a463e0d636963ae0ccc7ac" width="480"/>
 - 📍  BEIJING.  <br/>
 - 📧  [zt2L999@163.com](zt2999@163.com) <br/>
-- 🍒  A post-90s person who loves software development. <br/>
-- 📍  重庆(CQ). <br/>
-- 👨‍🎓  CQU. <br/>
-- 👩‍💻  9 years of work. <br/>
-- 🎖️  5 years in the army. <br/>
-- 👨‍🦳  Father of two girls.<br/>
+- 👩‍💻  4 years of work. <br/>
 <br/>
 
 
